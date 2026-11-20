@@ -1,0 +1,6 @@
+[
+  { "file": "1-checklist.jpg", "query": "?shot=checklist", "w": 1280, "h": 800 },
+  { "file": "2-guide.jpg", "query": "?shot=guide", "w": 1280, "h": 800 },
+  { "file": "3-roadmap.jpg", "query": "?shot=roadmap", "w": 1280, "h": 800 },
+  { "file": "4-missable.jpg", "query": "?shot=missable", "w": 1280, "h": 800 }
+]
